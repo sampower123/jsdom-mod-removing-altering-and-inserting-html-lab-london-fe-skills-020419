@@ -6,3 +6,5 @@ main.remove()
 const newHeader = null;
 
 var h1 = document.createElement('h1')
+
+document.body.appendChild(h1)
