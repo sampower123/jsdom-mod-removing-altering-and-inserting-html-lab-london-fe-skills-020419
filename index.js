@@ -11,3 +11,4 @@ document.body.appendChild(h1)
 
 h1.id = 'victory'
 
+h1.innerHTML = 'Sam is the champion!'
